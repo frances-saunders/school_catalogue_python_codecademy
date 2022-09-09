@@ -1,3 +1,5 @@
+#This fulfills the reqs for the "School Catalogue" project in Python in Codecademy
+
 class School:
   
   def __init__(self, name, level, numberOfStudent):
